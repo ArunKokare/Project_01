@@ -1,0 +1,33 @@
+2023-03-31 18:43:38,619 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 18:46:07,084 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 18:47:10,178 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 18:47:18,676 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 19:02:02,366 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 19:02:10,883 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 19:10:54,275 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 19:11:02,429 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:10:00,723 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:10:49,487 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:10:59,129 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:12:55,447 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:13:04,531 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:14:17,545 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:14:23,075 [main] INFO Dalal Street Automation framework - TestCase Execution Start verifyLoginTest
+2023-03-31 20:14:26,435 [main] INFO Dalal Street Automation framework - TestCase Execution Failure verifyLoginTest
+2023-03-31 20:14:26,721 [main] INFO Dalal Street Automation framework - Takes Screenshot
+2023-03-31 20:14:26,861 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:15:14,068 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:15:19,061 [main] INFO Dalal Street Automation framework - TestCase Execution Start verifyLoginTest
+2023-03-31 20:15:22,430 [main] INFO Dalal Street Automation framework - TestCase Execution Failure verifyLoginTest
+2023-03-31 20:15:22,584 [main] INFO Dalal Street Automation framework - Takes Screenshot
+2023-03-31 20:15:22,770 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:18:17,258 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:18:27,653 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:19:45,119 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:19:55,330 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:21:40,778 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:21:49,557 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:23:56,752 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:24:06,642 [main] INFO Dalal Street Automation framework - Framework Execution End 
+2023-03-31 20:25:59,832 [main] INFO Dalal Street Automation framework - Framework Execution Start
+2023-03-31 20:26:10,092 [main] INFO Dalal Street Automation framework - Framework Execution End 
